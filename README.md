@@ -5,5 +5,6 @@
 直接将翻译工具.py用终端打包即可点击使用
 win+r输cmd回车
 打包代码：
-'''cd D:\MyExe02（文件所在位置）
-pyinstaller --onefile --windowed --add-data "C:\Program Files\Tesseract-OCR\tesseract.exe;." --name "Subtask翻译器 v9.0" "翻译工具.py"）'''
+
+- cd D:\MyExe02（文件所在位置）
+- pyinstaller --onefile --windowed --add-data "C:\Program Files\Tesseract-OCR\tesseract.exe;." --name "Subtask翻译器 v9.0" "翻译工具.py"）'''
